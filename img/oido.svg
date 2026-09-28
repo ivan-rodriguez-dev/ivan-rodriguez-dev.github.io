@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 520" font-family="Inter,Arial,sans-serif">
+<rect width="840" height="520" fill="#eef0f8"/>
+<rect x="70" y="40" width="700" height="410" rx="18" fill="#1c2333"/>
+<rect x="84" y="54" width="672" height="382" rx="8" fill="#fff"/>
+<rect x="84" y="54" width="150" height="382" rx="8" fill="#0b1f3a"/>
+<text x="102" y="90" fill="#fff" font-size="16" font-weight="700">Oído en vivo</text>
+<rect x="98" y="110" width="122" height="30" rx="7" fill="#6c3ce1"/><text x="110" y="130" fill="#fff" font-size="12">Transcripción</text>
+<text x="110" y="166" fill="#9aa4c0" font-size="12">Historial</text><text x="110" y="196" fill="#9aa4c0" font-size="12">Ajustes</text>
+<circle cx="266" cy="90" r="6" fill="#e5484d"/><text x="280" y="95" fill="#1c2333" font-size="14" font-weight="600">Transcribiendo en vivo…</text>
+<text x="690" y="95" fill="#5b6478" font-size="13">00:00:18</text>
+<g fill="#6c3ce1">
+<rect x="262" y="120" width="6" height="30" rx="3"/><rect x="274" y="112" width="6" height="46" rx="3"/><rect x="286" y="124" width="6" height="22" rx="3"/><rect x="298" y="106" width="6" height="58" rx="3"/><rect x="310" y="118" width="6" height="34" rx="3"/><rect x="322" y="126" width="6" height="18" rx="3"/><rect x="334" y="110" width="6" height="50" rx="3"/><rect x="346" y="120" width="6" height="30" rx="3"/><rect x="358" y="114" width="6" height="42" rx="3"/><rect x="370" y="126" width="6" height="18" rx="3"/><rect x="382" y="108" width="6" height="54" rx="3"/><rect x="394" y="120" width="6" height="30" rx="3"/><rect x="406" y="116" width="6" height="38" rx="3"/><rect x="418" y="126" width="6" height="18" rx="3"/><rect x="430" y="112" width="6" height="46" rx="3"/><rect x="442" y="122" width="6" height="26" rx="3"/>
+</g>
+<rect x="262" y="190" width="330" height="46" rx="12" fill="#f1f2f7"/>
+<text x="278" y="210" fill="#5b6478" font-size="11">EN · Could you tell me your name, please?</text>
+<text x="278" y="226" fill="#1c2333" font-size="12">ES · ¿Podrías decirme tu nombre, por favor?</text>
+<rect x="390" y="252" width="350" height="46" rx="12" fill="#6c3ce1"/>
+<text x="406" y="272" fill="#e3dafc" font-size="11">Respuesta sugerida (clic para copiar)</text>
+<text x="406" y="288" fill="#fff" font-size="12" font-weight="600">Sure, my name is Carlos Pérez.</text>
+<rect x="262" y="314" width="330" height="46" rx="12" fill="#f1f2f7"/>
+<text x="278" y="334" fill="#5b6478" font-size="11">EN · Great, what topic would you like to discuss?</text>
+<text x="278" y="350" fill="#1c2333" font-size="12">ES · Perfecto, ¿de qué tema quieres hablar?</text>
+<rect x="262" y="380" width="120" height="34" rx="9" fill="#6c3ce1"/><text x="296" y="402" fill="#fff" font-size="13" font-weight="600">Escuchar</text>
+<path d="M40 450h760l-30 26H70z" fill="#c8ccd8"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 520" font-family="Inter,Arial,sans-serif">
+<rect width="840" height="520" fill="#eef0f8"/>
+<rect x="60" y="36" width="720" height="420" rx="16" fill="#1c2333"/>
+<rect x="74" y="50" width="692" height="392" rx="8" fill="#fff"/>
+<text x="98" y="92" fill="#0b1f3a" font-size="18" font-weight="700">Buscador de personajes</text>
+<rect x="98" y="108" width="330" height="36" rx="9" fill="#f1f2f7" stroke="#e1e4ee"/>
+<text x="118" y="131" fill="#5b6478" font-size="13">Buscar por nombre…</text>
+<rect x="438" y="108" width="84" height="36" rx="9" fill="#6c3ce1"/><text x="458" y="131" fill="#fff" font-size="13" font-weight="600">Buscar</text>
+<g font-size="11">
+<rect x="98" y="164" width="130" height="170" rx="12" fill="#f6f4fe"/><circle cx="163" cy="224" r="38" fill="#c9b8f6"/><circle cx="163" cy="212" r="14" fill="#6c3ce1"/><path d="M137 246a26 20 0 0 1 52 0" fill="#6c3ce1"/><text x="112" y="290" fill="#0b1f3a" font-weight="600">Personaje 1</text><text x="112" y="308" fill="#16a34a">● Vivo · Humano</text>
+<rect x="240" y="164" width="130" height="170" rx="12" fill="#f6f4fe"/><circle cx="305" cy="224" r="38" fill="#b9e3d0"/><circle cx="305" cy="212" r="14" fill="#16a34a"/><path d="M279 246a26 20 0 0 1 52 0" fill="#16a34a"/><text x="254" y="290" fill="#0b1f3a" font-weight="600">Personaje 2</text><text x="254" y="308" fill="#5b6478">● Desconocido</text>
+<rect x="382" y="164" width="130" height="170" rx="12" fill="#f6f4fe"/><circle cx="447" cy="224" r="38" fill="#fcd9b6"/><circle cx="447" cy="212" r="14" fill="#e67e22"/><path d="M421 246a26 20 0 0 1 52 0" fill="#e67e22"/><text x="396" y="290" fill="#0b1f3a" font-weight="600">Personaje 3</text><text x="396" y="308" fill="#e5484d">● Muerto · Alien</text>
+</g>
+<rect x="538" y="108" width="206" height="226" rx="10" fill="#0b1f3a"/>
+<text x="554" y="134" fill="#9aa4c0" font-size="12">GET /api/personajes</text>
+<g font-family="Consolas,monospace" font-size="12"><text x="554" y="164" fill="#c9b8f6">{</text><text x="566" y="186" fill="#fff">"total": <tspan fill="#f2c94c">826</tspan>,</text><text x="566" y="208" fill="#fff">"took": <tspan fill="#f2c94c">12</tspan>,</text><text x="566" y="230" fill="#fff">"hits": [ … ]</text><text x="554" y="252" fill="#c9b8f6">}</text></g>
+<text x="554" y="296" fill="#6db33f" font-size="12" font-weight="600">Spring Boot</text><text x="554" y="316" fill="#f2c94c" font-size="12" font-weight="600">Elasticsearch</text>
+<rect x="98" y="354" width="646" height="64" rx="10" fill="#f6f7fb"/>
+<g font-size="12" fill="#1c2333"><text x="118" y="384">API externa</text><text x="276" y="384">Proceso batch</text><text x="440" y="384">Elasticsearch</text><text x="604" y="384">API REST + JS</text></g>
+<g stroke="#6c3ce1" stroke-width="2" fill="none"><path d="M200 380h60M366 380h60M530 380h60"/></g>
+<text x="118" y="404" fill="#5b6478" font-size="10">paginación</text><text x="276" y="404" fill="#5b6478" font-size="10">idempotente</text><text x="440" y="404" fill="#5b6478" font-size="10">indexación</text><text x="604" y="404" fill="#5b6478" font-size="10">consulta</text>
+<path d="M30 456h780l-30 26H60z" fill="#c8ccd8"/>
+</svg>
